@@ -1,0 +1,10 @@
+!.eslintrc.js
+
+/app/.next/
+/app/.pnp
+/app/.pnp.js
+/app/build/
+/app/node_modules/
+/app/out/
+
+/node_modules/
